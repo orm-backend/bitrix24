@@ -1,0 +1,8 @@
+.phpunit.result.cache
+bitrix
+vendor
+
+#Eclipse
+.settings
+.buildpath
+.project
